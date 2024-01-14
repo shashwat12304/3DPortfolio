@@ -160,7 +160,7 @@ const testimonials = [
     name: "Avi Bhardwaj",
     designation: "Team Lead",
     company: "Alyssum Global Services",
-    image: "https://raw.githubusercontent.com/shashwat12304/3DPortfolio/main/Avi%20Bhardwaj.png",
+    image: "https://raw.githubusercontent.com/shashwat12304/3DPortfolio/main/assets_2/Avi.jpeg",
   },
   {
     testimonial:
@@ -168,7 +168,7 @@ const testimonials = [
     name: "Aditi Jain",
     designation: "DevOps Engineer",
     company: "Alyssum Global Services",
-    image: "https://raw.githubusercontent.com/shashwat12304/3DPortfolio/main/Aditi%20Jain.jpg",
+    image: "https://raw.githubusercontent.com/shashwat12304/3DPortfolio/main/assets_2/Aditi%20Jain.jpg",
   },
   {
     testimonial:
@@ -176,7 +176,7 @@ const testimonials = [
     name: "Rishabh Jain",
     designation: "DevOps Engineer",
     company: "Alyssum Global Services",
-    image: "https://raw.githubusercontent.com/shashwat12304/3DPortfolio/main/rishabh%20Jain.jpg",
+    image: "https://raw.githubusercontent.com/shashwat12304/3DPortfolio/main/assets_2/rishabh.jpg",
   },
 ];
 
